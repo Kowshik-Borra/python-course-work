@@ -1,0 +1,70 @@
+Data analysis is the process of collecting, cleaning, organizing, and analyzing data to identify meaningful patterns and insights. It helps organizations make informed decisions, solve problems, improve performance, and predict future trends.
+
+
+
+Why do we need Data Analysis?
+
+We use data analysis to:
+
+Make better decisions – Decisions can be based on facts rather than guesses.
+Find patterns and trends – Identify increases, decreases, and recurring patterns.
+Solve problems – Understand the reasons behind problems and find solutions.
+Improve business performance – Identify what is working and what needs improvement.
+Predict future outcomes – Use historical data to estimate future sales, demand, etc.
+Save time and money – Identify inefficient processes and unnecessary expenses.
+Understand customers – Analyze customer behavior, preferences, and needs.
+
+Types of Data Analysis
+
+There are commonly four types:
+
+1. Descriptive Analysis
+
+Answers:
+
+What happened?
+
+Example:
+
+Sales increased by 20% last month.
+
+2. Diagnostic Analysis
+
+Answers:
+
+Why did it happen?
+
+Example:
+
+Sales increased because of a successful festival discount.
+
+3. Predictive Analysis
+
+Answers:
+
+What might happen in the future?
+
+Example:
+
+Based on previous sales, next month's sales may increase by 15%.
+
+4. Prescriptive Analysis
+
+Answers:
+
+What should we do?
+
+Example:
+
+Increase inventory and run advertisements for the products with high demand.
+
+Easy way to remember:
+
+Descriptive → What happened?
+Diagnostic → Why happened?
+Predictive → What may happen?
+Prescriptive → What should we do?
+
+numpy is used when we have matahmatical or numarical calculations like matrix 
+
+pandas is use for data in table rows and columns
